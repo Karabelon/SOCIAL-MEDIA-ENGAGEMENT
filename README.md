@@ -36,9 +36,10 @@ A **presentation** was created in Canva to communicate the findings clearly for 
 
 ### Slide Highlights:
 - Project Objective  
-- Data Cleaning Process  
-- Best Performing Platforms  
-- Time of Day & Day of Week Analysis  
+- Data Overview
+-  Engagement by post time
+- Best time of the day
+- Sentiment and Engagement
 - Recommendations for Social Media Managers
 
 
